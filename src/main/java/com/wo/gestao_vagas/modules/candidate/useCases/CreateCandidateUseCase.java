@@ -1,8 +1,8 @@
 package com.wo.gestao_vagas.modules.candidate.useCases;
 
 import com.wo.gestao_vagas.exceptions.UserFoundException;
-import com.wo.gestao_vagas.modules.candidate.CandidateEntity;
-import com.wo.gestao_vagas.modules.candidate.CandidateRepository;
+import com.wo.gestao_vagas.modules.candidate.entities.CandidateEntity;
+import com.wo.gestao_vagas.modules.candidate.repositories.CandidateRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
