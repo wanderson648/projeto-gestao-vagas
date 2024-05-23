@@ -1,4 +1,4 @@
-package com.wo;
+package com.wo.gestao_vagas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
